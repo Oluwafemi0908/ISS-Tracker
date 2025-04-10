@@ -1,8 +1,8 @@
 import requests
 import datetime as dt
 import smtplib
-my_email = "oluwafemiakinode909@gmail.com"
-password = "whrhbmyadrxqapie"
+my_email = "EmailAddress"
+password = "email _password"
 MY_LAT = 6.528017
 MY_LNG = 3.338459
 
